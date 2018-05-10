@@ -6,5 +6,5 @@ CSS Resources
 * 利用坐标追踪鼠标位置
 * 在 background 属性上应用 radial-gradient ，使用 circle closest-side,closest-side能够颠覆整个面
 ## 查看效果
-<a target='_blank' href="https://vivienchumei.github.io/CSS/%E6%8C%89%E9%92%AE%E6%B8%90%E5%8F%98%E4%BA%92%E5%8A%A8.html">预览</a>
+<a href="https://vivienchumei.github.io/CSS/%E6%8C%89%E9%92%AE%E6%B8%90%E5%8F%98%E4%BA%92%E5%8A%A8.html" target="_blank">预览</a>
 
